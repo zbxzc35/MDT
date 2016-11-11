@@ -8,8 +8,7 @@
 #ifndef SRC_READ_VIDEO_H_
 #define SRC_READ_VIDEO_H_
 
-#include "opencv2/videoio/videoio.hpp"
-#include "opencv2/core.hpp"
+#include "std_includes.h"
 
 class video_reader
 {
